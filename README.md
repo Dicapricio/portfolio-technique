@@ -11,5 +11,5 @@ Vous trouverez ci-dessous mes exemples de documentation réseau et de procédure
 
 ### 2. Checklist d'audit : Sécurisation d'un réseau Wi-Fi
 *Procédure de 10 points pour auditer la sécurité d'un réseau Wi-Fi (indépendant du constructeur) avec guide de localisation des menus.*
-* **[Consulter le document PDF](./Checklist%20Audit%20WiFi.pdf)** *(Checklist d'audit _ Sécurisation d'un réseau Wi-Fi d'entreprise)*
-* **[Version modifiable (Google Docs)](COLLE_ICI_TON_LIEN_GOOGLE_DOCS)** *(https://docs.google.com/document/d/1KKmR-P0X1ayWbIUWLzt3u7Z2eDIK9MBhVvZ6PlDcfnQ/edit?usp=sharing)*
+* **[Consulter le document PDF](./Checklist%20d'audit%20_%20Sécurisation%20d'un%20réseau%20Wi-Fi%20d'entreprise.pdf)** 
+* **[Version modifiable (Google Docs)](https://docs.google.com/document/d/1KKmR-P0X1ayWbIUWLzt3u7Z2eDIK9MBhVvZ6PlDcfnQ/edit?usp=sharing)** 
