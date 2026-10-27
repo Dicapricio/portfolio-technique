@@ -7,7 +7,7 @@ Vous trouverez ci-dessous mes exemples de documentation réseau et de procédure
 
 ### 1. Documentation d'architecture : Réseau PME avec VLAN
 *Guide complet pour la configuration de VLANs et de routage inter-VLAN (Router-on-a-stick) sous Cisco Packet Tracer.*
-* **[Consulter le document PDF](./Documentation%20d'architecture%20d'un%20réseau%20PME.pdf)** *(Documentation d'architecture d'un réseau PME)*
+* **[Consulter le document PDF](./Documentation%20d'architecture%20d'un%20réseau%20PME.pdf)**
 
 ### 2. Checklist d'audit : Sécurisation d'un réseau Wi-Fi
 *Procédure de 10 points pour auditer la sécurité d'un réseau Wi-Fi (indépendant du constructeur) avec guide de localisation des menus.*
